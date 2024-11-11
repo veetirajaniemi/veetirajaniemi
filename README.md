@@ -1,5 +1,5 @@
 ### Me
-I'm a third-year computational engineering student who enjoys solving problems with programming and mathematics! I'm especially interested in artificial intelligence, machine learning and data analysis. 
+I'm a computational engineering student who enjoys solving problems with programming and mathematics! I'm especially interested in artificial intelligence, machine learning and data analysis. 
 
 ### My projects
 There are some of my coding projects: 
